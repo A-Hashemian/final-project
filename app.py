@@ -56,7 +56,7 @@ Bu uygulama, engellemeye yönelik biyoaktiviteyi tahmin etmenizi sağlar.
 with st.sidebar.header('1. CSV verilerinizi yükleyin'):
     uploaded_file = st.sidebar.file_uploader("Giriş dosyanızı yükleyin", type=['txt'])
     st.sidebar.markdown("""
-[Örnek Giriş Dosyası](https://raw.githubusercontent.com/)
+[Örnek Giriş Dosyası](https://github.com/A-Hashemian/final-project/blob/main/example-p53.txt)
 """)
 
 if st.sidebar.button('Tahmin'):
