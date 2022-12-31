@@ -1,0 +1,5 @@
+COc1ccc(C2=N[C@@H](c3ccc(Cl)cc3)[C@@H](c3ccc(Cl)cc3)N2C(=O)N2CCNC(=O)C2)c(OC(C)C)c1	CHEMBL191334
+Cc1ccc2c(c1)C1=C(C(c3ccc(Br)cc3)O2)C(c2ccc(Br)cc2)n2ncnc2N1C	CHEMBL583413
+Cc1cc2c(cc1F)OC(c1ccc(Br)cc1)C1=C2N(C)c2ncnn2C1c1ccc(Br)cc1	CHEMBL584512
+CN1C2=C(C(c3ccc(Br)cc3)Oc3ccc(F)cc32)C(c2ccc(Br)cc2)n2ncnc21	CHEMBL567403
+CCOc1cccc2c1C1=C(C(c3ccc(Br)cc3)O2)C(c2ccc(Br)cc2)n2ncnc2N1C	CHEMBL583626

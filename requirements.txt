@@ -1,0 +1,6 @@
+streamlit==0.71.0
+pandas
+base58
+pickle5
+subprocess.run
+scikit-learn
